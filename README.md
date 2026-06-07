@@ -118,4 +118,4 @@ npm run dev
 
 ## Licencja
 
-Projekt edukacyjny / portfolio — użyj zgodnie z regulaminem X/Twitter i Apify przy scrapingu publicznych danych.
+Używaj zgodnie z regulaminem X/Twitter i Apify przy scrapingu publicznych danych.
